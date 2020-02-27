@@ -3,6 +3,7 @@ db.json
 db.sqlite3
 PipFile
 media
+manage.py
 
 # Django #
 *.log
